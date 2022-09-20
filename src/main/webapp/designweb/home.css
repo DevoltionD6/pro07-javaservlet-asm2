@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+
+
+.cartbtn {
+    margin-left: 3%;
+}
+
+img {
+    width: 90%;
+}
+
+main {
+    margin: 0% 0px 6% 0px;
+}
+
+.product {
+    background-color: whitesmoke;
+    border: 1px solid grey;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 5%;
+}
+
+.product-title {
+    padding: 4% 0 1% 0;
+}
+
+.product-prices {
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    width: auto;
+    padding: 5% 0 7% 0;
+}
+
+nav {
+    margin-bottom: 4%;
+}
